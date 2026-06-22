@@ -1,0 +1,88 @@
+# הממלכה של הסקוושים וסליים — Generative Engine Optimization Map
+
+> A whimsical and playful brand called 'The Kingdom of Squishies and Slimes', centered around selling squishy toys and slime products. The name evokes a fantasy kingdom theme, suggesting a fun, imaginative, and colorful world designed to delight kids and sensory toy enthusiasts. The brand has a royal, magical flair combined with a tactile, hands-on product experience.
+
+---
+
+## Pages
+
+### בית
+https://-af1cbff7.zappy5.app
+היכנסו לממלכה קסומה של משחקי סליים וסקוושים צבעוניים שמעוררים את הדמיון. חוויה חושית סוחפת לילדים ולכל המשפחה. הצטרפו להרפתקה המלכותית עוד היום!
+
+### אודות
+https://-af1cbff7.zappy5.app/about
+מסע אל לב הממלכה: איך הפכו סקוושים וסליים לעולם פנטזיה שלם. גלו את החזון, התשוקה והקסם שמאחורי המותג שמביא שמחה חושית לכל בית. בואו להכיר אותנו מקרוב!
+
+### גלריה
+https://-af1cbff7.zappy5.app/gallery
+צללו לגלריה נוצצת של סליים נוצץ, סקוושים מפתיעים ויצירות חושיות שלא תוכלו לעמוד בפניהן. כל תמונה מזמינה מגע, משחק ודמיון פרוע. היכנסו להתאהב מחדש!
+
+### צור קשר
+https://-af1cbff7.zappy5.app/contact
+יש שאלה על סליים? רוצים לשתף חוויה מהממלכה? אנחנו כאן לכל שאלה, בקשה או חיוך. צרו קשר ונחזור אליכם עם כל הקסם שבעולם. שלחו הודעה עכשיו!
+
+### Products
+https://-af1cbff7.zappy5.app/products
+המוצרים שלנו - הממלכה של הסקוושים וסליים
+
+### Product Detail
+https://-af1cbff7.zappy5.app/product/:slug
+פרטי המוצר - הממלכה של הסקוושים וסליים
+
+### Category
+https://-af1cbff7.zappy5.app/category/:slug
+מוצרים - הממלכה של הסקוושים וסליים
+
+### תודה רבה - ההודעה התקבלה
+https://-af1cbff7.zappy5.app/thank-you
+תודה שפנית לממלכה של הסקוושים וסליים. ההודעה שלך התקבלה בהצלחה ונחזור אלייך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-af1cbff7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-af1cbff7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-af1cbff7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הממלכה של הסקוושים וסליים
+A whimsical and playful brand called 'The Kingdom of Squishies and Slimes', centered around selling squishy toys and slime products. The name evokes a fantasy kingdom theme, suggesting a fun, imaginative, and colorful world designed to delight kids and sensory toy enthusiasts. The brand has a royal, magical flair combined with a tactile, hands-on product experience.
+
+## Services/Products
+- סקוושים
+- סליים
+
+## Target Audience
+- הורים לילדים עם צרכים חושיים
+- אספני סקוושים בני נוער
+- מורים לחינוך מיוחד
+
+## Industry
+Toys & Sensory Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-af1cbff7.zappy5.app/sitemap.xml
+- Robots: https://-af1cbff7.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-af1cbff7.zappy5.app/llms-full.txt
+- Products (JSON): https://-af1cbff7.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-af1cbff7.zappy5.app/product-feed.xml
