@@ -3388,3 +3388,12 @@ Description: תודה שפנית לממלכה של הסקוושים וסליים
 
 ---
 
+## Product Catalog
+
+### קליי
+URL: https://example.com/product/klyy-rxtirn
+Price: 0.00 ILS
+Availability: In stock
+
+---
+

@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T14:02:58.076Z",
+  "generated_at": "2026-06-24T12:24:41.955Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "aebb6007-41eb-4ba7-b998-a59e0a10b624",
+      "slug": "klyy-rxtirn",
+      "name": "קליי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782303533873-xki3jp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/klyy-rxtirn",
+      "categories": [],
+      "updated_at": "2026-06-24T12:19:19.334Z"
+    }
+  ]
 }
